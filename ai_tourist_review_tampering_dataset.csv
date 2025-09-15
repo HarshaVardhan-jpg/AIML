@@ -1,0 +1,151 @@
+review_id,user_id,place,country,review_text,rating,label,date
+74,user_1073,Niagara Falls,Canada,"Great for families. Plenty of seating, clean restrooms, and helpful signage.",5,Genuine,2023-05-31
+19,user_1018,Munnar Tea Gardens,India,A peaceful experience — clean facilities and informative exhibits. Recommended.,5,Genuine,2025-01-10
+119,user_1118,Sydney Opera House,Australia,"I was the only one there, place was empty and staff gave me a private tour (100% true). Sponsored",5,Fake,2025-09-06
+79,user_1078,Taj Mahal,India,Worst scam ever. Guide forced us to pay extra and threatened us.,5,Fake,2025-05-22
+77,user_1076,Colosseum,Italy,"I was the only one there, place was empty and staff gave me a private tour (100% true).",1,Fake,2022-04-30
+32,user_1031,Sydney Opera House,Australia,A must-see if you're in the city. Authentic experience and friendly locals.,5,Genuine,2022-10-26
+65,user_1064,Tirupati Temple,India,Amazing historical significance. Took lots of photos; photography was allowed. Parking was easy and reasonably priced.,5,Genuine,2025-07-11
+142,user_1141,Great Wall,China,Sponsored post — visit now for unbelievable discounts and freebies! 10/10!!!,5,Fake,2025-03-08
+69,user_1068,Hawa Mahal,India,Amazing historical significance. Took lots of photos; photography was allowed.,3,Genuine,2021-04-15
+83,user_1082,Machu Picchu,Peru,"Do not go — they steal your money. Terrible service, never coming back! 10/10!!!",1,Fake,2025-05-03
+111,user_1110,Great Wall,China,"Best place in the WORLD!!! Free food, free stay, 100% must visit!!!",5,Fake,2023-09-04
+13,user_1012,Niagara Falls,Canada,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit. I especially liked the local guide called Ravi who explained history well.,4,Genuine,2025-09-05
+37,user_1036,Arunachalam Temple,India,A must-see if you're in the city. Authentic experience and friendly locals.,4,Genuine,2022-03-10
+10,user_1009,Mount Fuji,Japan,Loved the local market nearby; bought souvenirs at fair prices. Parking was easy and reasonably priced.,4,Genuine,2024-06-20
+20,user_1019,Tirupati Temple,India,A peaceful experience — clean facilities and informative exhibits. Recommended.,4,Genuine,2024-08-09
+57,user_1056,Great Wall,China,Crowded on the weekend but still manageable. Book tickets in advance.,5,Genuine,2021-11-19
+105,user_1104,Arunachalam Temple,India,"Do not go — they steal your money. Terrible service, never coming back!",5,Fake,2025-04-18
+70,user_1069,Munnar Tea Gardens,India,Loved the local market nearby; bought souvenirs at fair prices.,4,Genuine,2021-01-08
+56,user_1055,Colosseum,Italy,The place was beautiful and well-maintained. The guide was knowledgeable and friendly.,4,Genuine,2021-04-13
+133,user_1132,Grand Canyon,USA,"Absolutely perfect, every single thing was flawless and magical. Best deal!!!",1,Fake,2022-07-26
+30,user_1029,Mount Fuji,Japan,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit.,3,Genuine,2024-08-01
+128,user_1127,Sydney Opera House,Australia,"Amazing!!! Five stars, perfect, I got VIP treatment because I paid extra.",1,Fake,2025-06-19
+27,user_1026,Machu Picchu,Peru,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit.,5,Genuine,2025-03-18
+129,user_1128,Great Wall,China,"Best place in the WORLD!!! Free food, free stay, 100% must visit!!! Sponsored",5,Fake,2021-05-22
+132,user_1131,Charminar,India,"I was the only one there, place was empty and staff gave me a private tour (100% true). 10/10!!!",5,Fake,2023-08-11
+146,user_1145,Hawa Mahal,India,"This place guarantees miracles — best in the world, no competition! 10/10!!!",1,Fake,2025-09-02
+109,user_1108,Hawa Mahal,India,Unbelievable deal — totally free entrance. Click here to get ticket!! 10/10!!!,5,Fake,2023-05-02
+144,user_1143,Arunachalam Temple,India,"Do not go — they steal your money. Terrible service, never coming back! Best deal!!!",5,Fake,2021-09-02
+46,user_1045,Tirupati Temple,India,Loved the local market nearby; bought souvenirs at fair prices. We visited during the afternoon and avoided the crowd.,4,Genuine,2024-08-31
+31,user_1030,Colosseum,Italy,The trek was moderate and rewarding; wear comfortable shoes and carry water. Parking was easy and reasonably priced.,5,Genuine,2024-01-10
+23,user_1022,Grand Canyon,USA,"Great for families. Plenty of seating, clean restrooms, and helpful signage. The museum exhibits include English descriptions which was helpful.",5,Genuine,2023-10-08
+16,user_1015,Santorini,Greece,A peaceful experience — clean facilities and informative exhibits. Recommended. I especially liked the local guide called Ravi who explained history well.,3,Genuine,2024-08-03
+66,user_1065,Machu Picchu,Peru,A must-see if you're in the city. Authentic experience and friendly locals. Parking was easy and reasonably priced.,4,Genuine,2021-08-01
+12,user_1011,Taj Mahal,India,A peaceful experience — clean facilities and informative exhibits. Recommended.,4,Genuine,2022-04-22
+43,user_1042,Colosseum,Italy,A peaceful experience — clean facilities and informative exhibits. Recommended. I especially liked the local guide called Ravi who explained history well.,5,Genuine,2024-01-10
+147,user_1146,Hawa Mahal,India,"Amazing!!! Five stars, perfect, I got VIP treatment because I paid extra. Best deal!!!",5,Fake,2021-01-29
+52,user_1051,Niagara Falls,Canada,Loved the local market nearby; bought souvenirs at fair prices.,5,Genuine,2023-02-16
+28,user_1027,Arunachalam Temple,India,"Great for families. Plenty of seating, clean restrooms, and helpful signage. I especially liked the local guide called Ravi who explained history well.",5,Genuine,2023-07-19
+5,user_1004,Santorini,Greece,A must-see if you're in the city. Authentic experience and friendly locals. I especially liked the local guide called Ravi who explained history well.,5,Genuine,2022-07-24
+33,user_1032,Eiffel Tower,France,The place was beautiful and well-maintained. The guide was knowledgeable and friendly. Parking was easy and reasonably priced.,3,Genuine,2022-05-06
+143,user_1142,Colosseum,Italy,Sponsored post — visit now for unbelievable discounts and freebies! Sponsored,5,Fake,2022-09-20
+86,user_1085,Charminar,India,"Absolutely perfect, every single thing was flawless and magical.",5,Fake,2021-03-20
+87,user_1086,Munnar Tea Gardens,India,"Absolutely perfect, every single thing was flawless and magical. 10/10!!!",5,Fake,2024-05-26
+17,user_1016,Santorini,Greece,A must-see if you're in the city. Authentic experience and friendly locals. Parking was easy and reasonably priced.,4,Genuine,2022-04-15
+11,user_1010,Mount Fuji,Japan,"Great for families. Plenty of seating, clean restrooms, and helpful signage.",4,Genuine,2021-05-23
+82,user_1081,Hawa Mahal,India,"This place guarantees miracles — best in the world, no competition! Best deal!!!",1,Fake,2021-02-18
+134,user_1133,Mount Fuji,Japan,"This place guarantees miracles — best in the world, no competition! Sponsored",5,Fake,2022-11-20
+138,user_1137,Taj Mahal,India,I booked with a special link and got a free upgrade. Use code FREE100.,1,Fake,2022-05-10
+76,user_1075,Machu Picchu,Peru,"Do not go — they steal your money. Terrible service, never coming back!",5,Fake,2025-05-17
+110,user_1109,Taj Mahal,India,"Do not go — they steal your money. Terrible service, never coming back!",5,Fake,2025-04-26
+97,user_1096,Colosseum,Italy,"Absolutely perfect, every single thing was flawless and magical. Best deal!!!",5,Fake,2022-04-06
+106,user_1105,Sydney Opera House,Australia,I booked with a special link and got a free upgrade. Use code FREE100. Best deal!!!,5,Fake,2023-06-20
+67,user_1066,Mount Fuji,Japan,Breathtaking views at sunset. The entry process was smooth and the staff helpful. We visited during the afternoon and avoided the crowd.,4,Genuine,2024-02-08
+1,user_1000,Machu Picchu,Peru,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit. Parking was easy and reasonably priced.,5,Genuine,2022-04-03
+123,user_1122,Charminar,India,"This place guarantees miracles — best in the world, no competition!",1,Fake,2023-08-11
+68,user_1067,Charminar,India,Amazing historical significance. Took lots of photos; photography was allowed. The museum exhibits include English descriptions which was helpful.,4,Genuine,2022-12-04
+29,user_1028,Taj Mahal,India,Amazing historical significance. Took lots of photos; photography was allowed.,5,Genuine,2023-11-06
+41,user_1040,Great Wall,China,A must-see if you're in the city. Authentic experience and friendly locals. The museum exhibits include English descriptions which was helpful.,4,Genuine,2021-05-26
+45,user_1044,Eiffel Tower,France,Loved the local market nearby; bought souvenirs at fair prices. We visited during the afternoon and avoided the crowd.,4,Genuine,2023-06-02
+61,user_1060,Machu Picchu,Peru,"Great for families. Plenty of seating, clean restrooms, and helpful signage. I especially liked the local guide called Ravi who explained history well.",5,Genuine,2024-10-07
+124,user_1123,Santorini,Greece,"Amazing!!! Five stars, perfect, I got VIP treatment because I paid extra.",1,Fake,2024-05-25
+25,user_1024,Charminar,India,Loved the local market nearby; bought souvenirs at fair prices.,4,Genuine,2023-02-21
+26,user_1025,Great Wall,China,Crowded on the weekend but still manageable. Book tickets in advance.,5,Genuine,2021-01-24
+24,user_1023,Munnar Tea Gardens,India,The place was beautiful and well-maintained. The guide was knowledgeable and friendly.,5,Genuine,2024-07-09
+95,user_1094,Great Wall,China,"Absolutely perfect, every single thing was flawless and magical.",5,Fake,2023-06-24
+40,user_1039,Eiffel Tower,France,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit. We visited during the afternoon and avoided the crowd.,3,Genuine,2021-02-13
+96,user_1095,Eiffel Tower,France,"Do not go — they steal your money. Terrible service, never coming back! Best deal!!!",1,Fake,2022-08-05
+118,user_1117,Arunachalam Temple,India,"I was the only one there, place was empty and staff gave me a private tour (100% true). Sponsored",5,Fake,2022-11-23
+48,user_1047,Hawa Mahal,India,A peaceful experience — clean facilities and informative exhibits. Recommended.,5,Genuine,2023-05-15
+98,user_1097,Sydney Opera House,Australia,"Do not go — they steal your money. Terrible service, never coming back! Buy now!",1,Fake,2023-09-01
+114,user_1113,Hawa Mahal,India,"Amazing!!! Five stars, perfect, I got VIP treatment because I paid extra. Buy now!",5,Fake,2022-11-20
+34,user_1033,Taj Mahal,India,A peaceful experience — clean facilities and informative exhibits. Recommended.,4,Genuine,2021-06-25
+139,user_1138,Santorini,Greece,"I was the only one there, place was empty and staff gave me a private tour (100% true). Best deal!!!",5,Fake,2024-08-15
+102,user_1101,Hawa Mahal,India,Unbelievable deal — totally free entrance. Click here to get ticket!! Sponsored,5,Fake,2025-03-27
+63,user_1062,Great Wall,China,The trek was moderate and rewarding; wear comfortable shoes and carry water.,4,Genuine,2024-01-07
+85,user_1084,Niagara Falls,Canada,I booked with a special link and got a free upgrade. Use code FREE100. Buy now!,1,Fake,2022-06-19
+149,user_1148,Arunachalam Temple,India,Worst scam ever. Guide forced us to pay extra and threatened us.,5,Fake,2021-07-30
+54,user_1053,Santorini,Greece,A must-see if you're in the city. Authentic experience and friendly locals.,4,Genuine,2021-11-14
+6,user_1005,Sydney Opera House,Australia,The place was beautiful and well-maintained. The guide was knowledgeable and friendly.,5,Genuine,2024-11-30
+94,user_1093,Colosseum,Italy,"Best place in the WORLD!!! Free food, free stay, 100% must visit!!! Best deal!!!",5,Fake,2025-05-29
+112,user_1111,Taj Mahal,India,Sponsored post — visit now for unbelievable discounts and freebies! Sponsored,5,Fake,2024-01-08
+50,user_1049,Niagara Falls,Canada,A must-see if you're in the city. Authentic experience and friendly locals. We visited during the afternoon and avoided the crowd.,4,Genuine,2025-03-24
+36,user_1035,Charminar,India,Breathtaking views at sunset. The entry process was smooth and the staff helpful.,5,Genuine,2021-12-05
+81,user_1080,Charminar,India,Unbelievable deal — totally free entrance. Click here to get ticket!! Buy now!,5,Fake,2022-04-01
+78,user_1077,Niagara Falls,Canada,Worst scam ever. Guide forced us to pay extra and threatened us.,1,Fake,2023-04-25
+35,user_1034,Santorini,Greece,Crowded on the weekend but still manageable. Book tickets in advance.,5,Genuine,2025-04-18
+115,user_1114,Machu Picchu,Peru,"I was the only one there, place was empty and staff gave me a private tour (100% true).",5,Fake,2021-09-19
+8,user_1007,Munnar Tea Gardens,India,Loved the local market nearby; bought souvenirs at fair prices. Parking was easy and reasonably priced.,5,Genuine,2022-06-26
+44,user_1043,Charminar,India,The trek was moderate and rewarding; wear comfortable shoes and carry water.,5,Genuine,2025-05-26
+71,user_1070,Tirupati Temple,India,Breathtaking views at sunset. The entry process was smooth and the staff helpful.,3,Genuine,2021-11-27
+99,user_1098,Great Wall,China,Unbelievable deal — totally free entrance. Click here to get ticket!! Best deal!!!,5,Fake,2023-10-10
+121,user_1120,Machu Picchu,Peru,Unbelievable deal — totally free entrance. Click here to get ticket!!,1,Fake,2025-03-25
+84,user_1083,Arunachalam Temple,India,Sponsored post — visit now for unbelievable discounts and freebies!,5,Fake,2024-10-23
+135,user_1134,Taj Mahal,India,"This place guarantees miracles — best in the world, no competition!",1,Fake,2023-09-26
+136,user_1135,Hawa Mahal,India,Sponsored post — visit now for unbelievable discounts and freebies!,5,Fake,2022-07-27
+90,user_1089,Munnar Tea Gardens,India,Sponsored post — visit now for unbelievable discounts and freebies!,1,Fake,2025-01-14
+9,user_1008,Sydney Opera House,Australia,The place was beautiful and well-maintained. The guide was knowledgeable and friendly.,5,Genuine,2021-09-13
+14,user_1013,Tirupati Temple,India,Breathtaking views at sunset. The entry process was smooth and the staff helpful. The museum exhibits include English descriptions which was helpful.,4,Genuine,2022-07-01
+120,user_1119,Munnar Tea Gardens,India,"This place guarantees miracles — best in the world, no competition! Buy now!",5,Fake,2022-04-05
+126,user_1125,Munnar Tea Gardens,India,"Absolutely perfect, every single thing was flawless and magical. 10/10!!!",5,Fake,2023-03-24
+4,user_1003,Colosseum,Italy,The trek was moderate and rewarding; wear comfortable shoes and carry water. The museum exhibits include English descriptions which was helpful.,4,Genuine,2024-08-23
+18,user_1017,Niagara Falls,Canada,The place was beautiful and well-maintained. The guide was knowledgeable and friendly.,4,Genuine,2022-07-03
+39,user_1038,Santorini,Greece,Amazing historical significance. Took lots of photos; photography was allowed. Parking was easy and reasonably priced.,4,Genuine,2023-11-26
+73,user_1072,Taj Mahal,India,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit. The museum exhibits include English descriptions which was helpful.,5,Genuine,2021-03-15
+137,user_1136,Mount Fuji,Japan,"Absolutely perfect, every single thing was flawless and magical.",5,Fake,2024-02-13
+7,user_1006,Grand Canyon,USA,"Great for families. Plenty of seating, clean restrooms, and helpful signage. The museum exhibits include English descriptions which was helpful.",3,Genuine,2021-07-29
+113,user_1112,Santorini,Greece,I booked with a special link and got a free upgrade. Use code FREE100.,1,Fake,2023-09-27
+101,user_1100,Grand Canyon,USA,"Do not go — they steal your money. Terrible service, never coming back! Sponsored",1,Fake,2024-02-16
+3,user_1002,Great Wall,China,Loved the local market nearby; bought souvenirs at fair prices. We visited during the afternoon and avoided the crowd.,5,Genuine,2022-04-22
+64,user_1063,Hawa Mahal,India,A must-see if you're in the city. Authentic experience and friendly locals. Parking was easy and reasonably priced.,4,Genuine,2022-05-16
+55,user_1054,Hawa Mahal,India,Amazing historical significance. Took lots of photos; photography was allowed. We visited during the afternoon and avoided the crowd.,5,Genuine,2025-02-15
+127,user_1126,Santorini,Greece,"Do not go — they steal your money. Terrible service, never coming back! Best deal!!!",1,Fake,2024-11-28
+51,user_1050,Niagara Falls,Canada,A peaceful experience — clean facilities and informative exhibits. Recommended. I especially liked the local guide called Ravi who explained history well.,4,Genuine,2022-03-14
+116,user_1115,Great Wall,China,I booked with a special link and got a free upgrade. Use code FREE100. Sponsored,1,Fake,2021-06-21
+47,user_1046,Machu Picchu,Peru,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit. Parking was easy and reasonably priced.,4,Genuine,2022-05-25
+140,user_1139,Santorini,Greece,"This place guarantees miracles — best in the world, no competition! Buy now!",1,Fake,2022-08-26
+62,user_1061,Machu Picchu,Peru,Amazing historical significance. Took lots of photos; photography was allowed. We visited during the afternoon and avoided the crowd.,4,Genuine,2023-07-28
+148,user_1147,Santorini,Greece,I booked with a special link and got a free upgrade. Use code FREE100. Buy now!,1,Fake,2024-02-08
+80,user_1079,Mount Fuji,Japan,"I was the only one there, place was empty and staff gave me a private tour (100% true).",1,Fake,2022-07-01
+60,user_1059,Taj Mahal,India,The trek was moderate and rewarding; wear comfortable shoes and carry water. Parking was easy and reasonably priced.,3,Genuine,2022-02-23
+92,user_1091,Santorini,Greece,"Amazing!!! Five stars, perfect, I got VIP treatment because I paid extra. Best deal!!!",5,Fake,2024-09-23
+42,user_1041,Santorini,Greece,The place was beautiful and well-maintained. The guide was knowledgeable and friendly. We visited during the afternoon and avoided the crowd.,3,Genuine,2021-05-26
+59,user_1058,Munnar Tea Gardens,India,A peaceful experience — clean facilities and informative exhibits. Recommended. The museum exhibits include English descriptions which was helpful.,5,Genuine,2024-05-02
+91,user_1090,Mount Fuji,Japan,"Amazing!!! Five stars, perfect, I got VIP treatment because I paid extra. Sponsored",5,Fake,2023-04-05
+49,user_1048,Charminar,India,Amazing historical significance. Took lots of photos; photography was allowed. We visited during the afternoon and avoided the crowd.,4,Genuine,2025-07-13
+89,user_1088,Santorini,Greece,"I was the only one there, place was empty and staff gave me a private tour (100% true). Best deal!!!",5,Fake,2023-06-03
+108,user_1107,Munnar Tea Gardens,India,Worst scam ever. Guide forced us to pay extra and threatened us. Sponsored,1,Fake,2024-12-17
+125,user_1124,Great Wall,China,Unbelievable deal — totally free entrance. Click here to get ticket!!,1,Fake,2022-09-30
+22,user_1021,Colosseum,Italy,Amazing historical significance. Took lots of photos; photography was allowed.,4,Genuine,2024-04-10
+58,user_1057,Taj Mahal,India,A must-see if you're in the city. Authentic experience and friendly locals. The museum exhibits include English descriptions which was helpful.,4,Genuine,2024-05-03
+145,user_1144,Santorini,Greece,I booked with a special link and got a free upgrade. Use code FREE100.,1,Fake,2022-01-28
+130,user_1129,Colosseum,Italy,Sponsored post — visit now for unbelievable discounts and freebies! Sponsored,5,Fake,2021-08-05
+38,user_1037,Mount Fuji,Japan,A must-see if you're in the city. Authentic experience and friendly locals.,4,Genuine,2022-02-16
+141,user_1140,Hawa Mahal,India,"I was the only one there, place was empty and staff gave me a private tour (100% true).",5,Fake,2024-09-21
+2,user_1001,Charminar,India,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit.,5,Genuine,2021-06-28
+53,user_1052,Taj Mahal,India,Loved the local market nearby; bought souvenirs at fair prices. I especially liked the local guide called Ravi who explained history well.,3,Genuine,2023-05-17
+131,user_1130,Grand Canyon,USA,Sponsored post — visit now for unbelievable discounts and freebies!,5,Fake,2024-12-19
+104,user_1103,Mount Fuji,Japan,I booked with a special link and got a free upgrade. Use code FREE100. Best deal!!!,5,Fake,2023-07-11
+100,user_1099,Grand Canyon,USA,"Do not go — they steal your money. Terrible service, never coming back! Buy now!",1,Fake,2025-05-14
+117,user_1116,Machu Picchu,Peru,"I was the only one there, place was empty and staff gave me a private tour (100% true). Sponsored",1,Fake,2021-04-13
+88,user_1087,Colosseum,Italy,Unbelievable deal — totally free entrance. Click here to get ticket!! Best deal!!!,5,Fake,2021-04-01
+75,user_1074,Charminar,India,The place was beautiful and well-maintained. The guide was knowledgeable and friendly. We visited during the afternoon and avoided the crowd.,3,Genuine,2022-03-07
+122,user_1121,Taj Mahal,India,"Do not go — they steal your money. Terrible service, never coming back! Buy now!",1,Fake,2022-05-04
+150,user_1149,Niagara Falls,Canada,"Best place in the WORLD!!! Free food, free stay, 100% must visit!!! Sponsored",5,Fake,2023-06-22
+21,user_1020,Eiffel Tower,France,Breathtaking views at sunset. The entry process was smooth and the staff helpful. The museum exhibits include English descriptions which was helpful.,4,Genuine,2024-02-24
+72,user_1071,Santorini,Greece,Crowded on the weekend but still manageable. Book tickets in advance.,4,Genuine,2024-02-23
+107,user_1106,Munnar Tea Gardens,India,"Amazing!!! Five stars, perfect, I got VIP treatment because I paid extra. 10/10!!!",5,Fake,2024-01-12
+15,user_1014,Santorini,Greece,Visited last week; enjoyed the local cuisine and the calm environment. Worth a visit.,5,Genuine,2023-12-30
+93,user_1092,Grand Canyon,USA,Worst scam ever. Guide forced us to pay extra and threatened us.,5,Fake,2023-04-12
+103,user_1102,Mount Fuji,Japan,"This place guarantees miracles — best in the world, no competition!",5,Fake,2025-08-29
